@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Build a Medical RAG App using BioMistral, Qdrant, and Llama.cpp
 This is a RAG implementation using Open Source stack. BioMistral 7B has been used to build this app along with PubMedBert as an embedding model, Qdrant as a self hosted Vector DB, and Langchain &amp; Llama CPP as an orchestration frameworks.
 
@@ -13,22 +12,3 @@ This is a RAG implementation using Open Source stack. BioMistral 7B has been use
 - On the backend, I leverage FastAPI, a modern, fast (high-performance) web framework for building APIs with Python 3.7+. FastAPI provides the speed and ease of use needed to create a responsive and efficient backend for our medical RAG application.
 - Finally, for the web UI, I employ Bootstrap 5.3, the latest version of the world’s most popular front-end open-source toolkit. This enables us to create a sleek, intuitive, and mobile-responsive user interface that makes our medical RAG application accessible and easy to use.
 - We set up the environment to integrate these technologies into a cohesive and functional medical RAG application.
-
-  
- ## Implementation Expert Guide:
-[Demo ▶️](https://www.youtube.com/watch?v=A_m3tCqdts4)
-
- ---
-## ©️ License 🪪 
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-#### **If you like this LLM Project do drop ⭐ to this repo**
-#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
-
----
-=======
-# Medical-RAG
->>>>>>> 247d4b6fe0cd041d5c251e3f51f90d7bca0aa4a1
