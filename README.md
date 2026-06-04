@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build a Medical RAG App using BioMistral, Qdrant, and Llama.cpp
 This is a RAG implementation using Open Source stack. BioMistral 7B has been used to build this app along with PubMedBert as an embedding model, Qdrant as a self hosted Vector DB, and Langchain &amp; Llama CPP as an orchestration frameworks.
 
@@ -28,3 +29,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 #### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
 
 ---
+=======
+# Medical-RAG
+>>>>>>> 247d4b6fe0cd041d5c251e3f51f90d7bca0aa4a1
